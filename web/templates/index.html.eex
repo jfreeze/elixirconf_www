@@ -61,7 +61,6 @@
       <ol class="carousel-indicators">
         <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
         <li data-target="#myCarousel" data-slide-to="1"></li>
-        <li data-target="#myCarousel" data-slide-to="2"></li>
       </ol>
       <div class="carousel-inner">
         <div class="item active">
@@ -102,16 +101,14 @@
         <div class="col-lg-2">
         </div>
         <div class="col-lg-4">
-          <img class="img-circle" data-src="holder.js/140x140" alt="Generic placeholder image">
+          <img class="img-circle" src="/static/images/jose.jpg" height="140px" alt="José Valim">
           <h2>José Valim</h2>
-          <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p>
-          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+          <p>José Valim is the creator of the Elixir language.</p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
-          <img class="img-circle" src="/static/images/elixir-logo.png" width="140px" alt="Generic placeholder image">
+          <img class="img-circle" src="/static/images/elixir-logo.png" width="140px" alt="Dave Thomas">
           <h2>Dave Thomas</h2>
           <p>Dave Thomas is a programmer. He's too modest to tell you he is also an accomplished author and publisher. Dave Thomas is the author of the Programming Ruby series, which he first published in 2000, helping Ruby on its way to popularity. Dave has done the same with his book, Programming Elixir.</p>
-          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
       </div><!-- /.row -->
 
