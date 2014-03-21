@@ -68,7 +68,7 @@
       </ol>
       <div class="carousel-inner">
         <div class="item active">
-          <img src="/static/images/austin.jpg" width="900" alt="ElixirConf in Austin">
+          <img src="/static/images/austin-web.jpg" width="900" alt="ElixirConf in Austin">
           <div class="container">
             <div class="carousel-caption">
               <h1>Elixir Conf</h1>
