@@ -42,9 +42,11 @@
             </div>
             <div class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
+<!--
                 <li class="active"><a href="#">Home</a></li>
                 <li><a href="#about">About</a></li>
-                <li><a href="#contact">Contact</a></li>
+-->
+                <li><a href="https://www.formstack.com/forms/?1710402-y4rOTw9FLr">Contact</a></li>
               </ul>
             </div>
           </div>
@@ -67,7 +69,7 @@
           <img class="img-responsive" src="/static/images/austin3.jpg" width="900" alt="ElixirConf in Austin">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Elixir Conf 2014</h1>
+              <h1>ElixirConf 2014</h1>
               <h2>July 25-26, 2014  Austin, TX</h2>
               <p>Call for Speaker Proposals Now Open!</p>
               <p><a class="btn btn-lg btn-primary" href="https://www.formstack.com/forms/?1708372-OVfYN9eWui" role="button">Submit a talk</a></p>
@@ -78,7 +80,7 @@
           <img src="/static/images/lsrc3.jpg" alt="ElixirConf in Austin">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Venue: Norris Conference Center</h1>
+                <h1>Venue: Norris Conference Center</h1>
               <p>2525 W. Anderson Lane, Suite 365, Austin, Texas 78757</p>
             </div>
           </div>
@@ -119,12 +121,14 @@
 
       <div class="row featurette">
         <div class="col-md-7">
-          <h2 class="featurette-heading">Registration <span class="text-muted">It'll blow your mind.</span></h2>
+            <a href="https://www.formstack.com/forms/?1708372-OVfYN9eWui">
+            <h2 class="featurette-heading">CFP Now Open</h2></a>
           <p class="lead">
-          <a href="https://www.eventbrite.com/e/elixirconf-2014-tickets-11044184453">Get my ticket now!</a></p>
+          Talk submissions are being accepted until April 16.
+          </p>
         </div>
         <div class="col-md-5">
-          <img class="featurette-image img-responsive" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
+          <img class="featurette-image img-responsive" src="/static/images/erl-speaker.jpg" alt="CFP Now Open">
         </div>
       </div>
 
@@ -132,23 +136,42 @@
 
       <div class="row featurette">
         <div class="col-md-5">
-          <img class="featurette-image img-responsive" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
+          <img class="featurette-image img-responsive" src="/static/images/elixir-logo2.png" width="450px" alt="Registration now open">
         </div>
         <div class="col-md-7">
-          <h2 class="featurette-heading">Venu: <span class="text-muted">Norris Conference Center</span></h2>
+          <a href="https://www.eventbrite.com/e/elixirconf-2014-tickets-11044184453">
+            <h2 class="featurette-heading">Registration</h2></a>
+          <p class="lead">
+          Early bird tickets are avaialble now until June 1.
+          </p>
+        </div>
+      </div>
+
+      <hr class="featurette-divider">
+
+      <div class="row featurette">
+        <div class="col-md-7">
+          <h2 class="featurette-heading">Venu: 
+            <a href="http://norriscenters.com/Austin/">
+              <span class="text-muted">Norris Conference Center</span>
+            </a>
+          </h2>
           <p class="lead">2525 W. Anderson Lane, Suite 365, Austin, Texas 78757</p>
         </div>
+        <div class="col-md-5">
+          <img class="featurette-image img-responsive" src="/static/images/norris.jpg" alt="Norris Conference Center">
+        </div>
       </div>
 
       <hr class="featurette-divider">
 
       <div class="row featurette">
-        <div class="col-md-7">
-          <h2 class="featurette-heading">And lastly, this one. <span class="text-muted">Checkmate.</span></h2>
-          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
-        </div>
         <div class="col-md-5">
-          <img class="featurette-image img-responsive" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
+          <img class="featurette-image img-responsive" src="/static/images/hotel.jpg" alt="Conference Hotel">
+        </div>
+        <div class="col-md-7">
+          <h2 class="featurette-heading">Conference Hotel <span class="text-muted"></span></h2>
+          <p class="lead">Conference Hotel information not yet available.</p>
         </div>
       </div>
 
