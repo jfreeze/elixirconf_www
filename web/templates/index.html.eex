@@ -38,7 +38,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
               </button>
-              <a class="navbar-brand" href="#">ElixirConf - Austin</a>
+              <a class="navbar-brand" href="#">ElixirConf 2014 - Austin</a>
             </div>
             <div class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
@@ -64,10 +64,10 @@
       </ol>
       <div class="carousel-inner">
         <div class="item active">
-          <img src="/static/images/austin3.jpg" width="900" alt="ElixirConf in Austin">
+          <img class="img-responsive" src="/static/images/austin3.jpg" width="900" alt="ElixirConf in Austin">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Elixir Conf</h1>
+              <h1>Elixir Conf 2014</h1>
               <h2>July 25-26, 2014  Austin, TX</h2>
               <p>Call for Speaker Proposals Now Open!</p>
               <p><a class="btn btn-lg btn-primary" href="https://www.formstack.com/forms/?1708372-OVfYN9eWui" role="button">Submit a talk</a></p>
@@ -79,7 +79,7 @@
           <div class="container">
             <div class="carousel-caption">
               <h1>Venue: Norris Conference Center</h1>
-              <p>2525 W. Anderson Lane, Suite 365, Austin, Texas 7875</p>
+              <p>2525 W. Anderson Lane, Suite 365, Austin, Texas 78757</p>
             </div>
           </div>
         </div>
@@ -103,12 +103,12 @@
         <div class="col-lg-4">
           <img class="img-circle" src="/static/images/jose.jpg" height="140px" alt="José Valim">
           <h2>José Valim</h2>
-          <p>José Valim is the creator of the Elixir language.</p>
+          <p>José Valim is the creator of the <a href="http://elixir-lang.org/">Elixir language</a>.  José is also a Rails Core Team Member and the founder of <a href="http://plataformatec.com.br/">plataformatec</a>.</p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
-          <img class="img-circle" src="/static/images/elixir-logo.png" width="140px" alt="Dave Thomas">
+          <img class="img-circle" src="/static/images/prag_dave_thomas.jpg" height="140px" alt="Dave Thomas">
           <h2>Dave Thomas</h2>
-          <p>Dave Thomas is a programmer. He's too modest to tell you he is also an accomplished author and publisher. Dave Thomas is the author of the Programming Ruby series, which he first published in 2000, helping Ruby on its way to popularity. Dave has done the same with his book, Programming Elixir.</p>
+          <p>Dave Thomas is a programmer. He's also an accomplished author and <a href="http://pragprog.com/">publisher</a>. Dave Thomas is the author of the <a href="http://pragprog.com/book/ruby4/programming-ruby-1-9-2-0">Programming Ruby</a> series, which he first published in 2000, helping Ruby on its way to popularity. Dave has done the same with his book, <a href="http://pragprog.com/book/elixir/programming-elixir">Programming Elixir</a>.</p>
         </div><!-- /.col-lg-4 -->
       </div><!-- /.row -->
 
@@ -119,8 +119,9 @@
 
       <div class="row featurette">
         <div class="col-md-7">
-          <h2 class="featurette-heading">First featurette heading. <span class="text-muted">It'll blow your mind.</span></h2>
-          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+          <h2 class="featurette-heading">Registration <span class="text-muted">It'll blow your mind.</span></h2>
+          <p class="lead">
+          <a href="https://www.eventbrite.com/e/elixirconf-2014-tickets-11044184453">Get my ticket now!</a></p>
         </div>
         <div class="col-md-5">
           <img class="featurette-image img-responsive" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
@@ -134,8 +135,8 @@
           <img class="featurette-image img-responsive" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
         </div>
         <div class="col-md-7">
-          <h2 class="featurette-heading">Oh yeah, it's that good. <span class="text-muted">See for yourself.</span></h2>
-          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+          <h2 class="featurette-heading">Venu: <span class="text-muted">Norris Conference Center</span></h2>
+          <p class="lead">2525 W. Anderson Lane, Suite 365, Austin, Texas 78757</p>
         </div>
       </div>
 
