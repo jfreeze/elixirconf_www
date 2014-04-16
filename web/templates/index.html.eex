@@ -171,7 +171,30 @@
         </div>
         <div class="col-md-7">
           <h2 class="featurette-heading">Conference Hotel <span class="text-muted"></span></h2>
-          <p class="lead">Conference Hotel information not yet available.</p>
+          <p class="lead">
+          Hyatt Place Austin/Arboretum<br>
+          3612 Tudor Boulevard<br>
+          Austin, Texas, USA, 78759<br>
+          Tel: +1 512 231 8491<br>
+          </p> 
+          <p>
+          You can now reserve rooms in either of two ways:
+          </p>
+
+          <p>
+          1) By calling Hyatt Reservations at 877-242-3654, 
+            and requesting a room reservation using group code <b>G-ELIX</b>. 
+            The Reservations Agent will be able to quote availability of the group rate 
+            on the requested dates, and reserve one of the group rooms for you.
+          </p>
+           
+          <p>
+          2) By visiting <a href="http://austinarboretum.place.hyatt.com/en/hotel/home.html?corp_id=G-ELIX">Hyatt Place Austin Reservations</a>
+          </p>
+           
+          <p>
+          If no rooms are available, tweet @jimfreeze to add more rooms to the block. If you have any questions about the reservations process, please let us know. 
+          </p>
         </div>
       </div>
 
